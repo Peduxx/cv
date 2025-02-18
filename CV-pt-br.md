@@ -75,10 +75,11 @@ Atuação no desenvolvimento de um serviço para **gestão de funcionários**, f
 ### 📂 **Instituto Atlântico** — Desenvolvedor Backend  
 📅 05/2022 – 02/2023  
 
-Atuação no projeto **APEX da Dell**, uma plataforma que oferece soluções **multicloud**.  
+Atuação no portfólio da **Dell**, mais especificamente no projeto **APEX**, uma plataforma que oferece um conjunto de ferramentas tecnológicas em nuvem para empresas que adotam o **multicloud**.
 
-- Implementação do **fluxo completo de notas fiscais**, garantindo conformidade com as normas  
-- Integração com múltiplos sistemas internos da **Dell** para automação do faturamento  
+- Desenvolvimento da parte de **notas fiscais** dentro do projeto APEX, garantindo a automação e integração dos processos de faturamento.
+- Implementação do fluxo completo de **criação e faturamento de notas fiscais**, assegurando conformidade com os requisitos do negócio.
+- Integração com diversos sistemas internos da **Dell** para permitir o funcionamento adequado do fluxo de notas fiscais.
 
 **🛠 Tech:** .NET, Azure, GitLab CI/CD, RabbitMQ, Oracle, xUnit 
 
@@ -89,7 +90,6 @@ Atuação no projeto **APEX da Dell**, uma plataforma que oferece soluções **m
 
 Desenvolvimento de um **portal contábil**, centralizando documentos e informações de diversas plataformas governamentais.  
 
-- Desenvolvimento de um **portal contábil** capaz de reunir informações e documentos importantes de diversas plataformas governamentais, eliminando a necessidade de acessos manuais repetitivos.
 - Integração com **Power BI** para geração de relatórios e análises contábeis detalhadas.
 - Desenvolvimento de funcionalidades para **exportação de dados em Excel**, facilitando a análise e manipulação das informações extraídas.
 
@@ -102,7 +102,9 @@ Desenvolvimento de um **portal contábil**, centralizando documentos e informaç
 
 Atuação no desenvolvimento de uma **plataforma white label**, permitindo que outras empresas utilizassem a infraestrutura bancária do FitBank.  
 
-- Desenvolvimento de **integrações bancárias** para funcionalidades como cadastro de usuários e criação de contas  
+- Desenvolvimento de integrações para fornecer funcionalidades internas do FitBank para sistemas de white label.
+- Implementação de fluxos de cadastro de usuários e criação de contas bancárias, além da exibição de informações detalhadas das contas.
+- Criação e manutenção de webhooks e jobs para automação de processos bancários.
 
 **🛠 Tech:** React, .NET, PostgreSQL, Dapper, GitHub, Azure, Swagger
 
