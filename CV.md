@@ -47,7 +47,7 @@ Atuação em projetos para **XP Investimentos** e **Warren Investimentos**, dese
 - Implementação de **Canary Deploy** para lançamento seguro de novas versões de APIs  
 - Desenvolvimento de rotas responsáveis por buscar, agregar e fornecer informações críticas para os **BFFs**  
 
-**🛠 Tevh:** .NET, Node.js, MongoDB, Docker, Azure Pipelines, GitHub, Dynatrace, xUnit, Swagger  
+**🛠 Tech:** .NET, Node.js, MongoDB, Docker, Azure Pipelines, GitHub, Dynatrace, xUnit, Swagger  
 
 #### 🏦 **Warren Investimentos**  
 **Desenvolvimento de uma API interna para gerenciar o onboarding de novos usuários, garantindo integração com múltiplos serviços para reunir e validar informações necessárias no cadastro.**  
